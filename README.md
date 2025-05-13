@@ -37,7 +37,7 @@ jupyter notebook COVID19_Global_Data_Tracker.ipynb
 # Python-project
 
 
-📈 Visualizations Included
+##📈 Visualizations Included
 Line chart: Total COVID-19 cases over time
 
 Bar chart: Top countries by total deaths
@@ -48,12 +48,12 @@ Scatter plot: Relationship between cases and deaths
 
 (Optional) Choropleth map of vaccination rates
 
-🔍 Key Insights
+##🔍 Key Insights
 Some countries experienced sharp peaks in cases during certain periods.
 
 Vaccination rollout varied significantly across regions.
 
 There is a visible correlation between high case counts and deaths in some countries.
 
-🙋‍♀️ Author
+##🙋‍♀️ Author
 Ann Wambui
